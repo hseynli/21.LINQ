@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\21.LINQ\20.LINQ\bin\Debug\net6.0\20.LINQ.exe
+E:\Projects\VsProjects\21.LINQ\20.LINQ\bin\Debug\net6.0\20.LINQ.deps.json
+E:\Projects\VsProjects\21.LINQ\20.LINQ\bin\Debug\net6.0\20.LINQ.runtimeconfig.json
+E:\Projects\VsProjects\21.LINQ\20.LINQ\bin\Debug\net6.0\20.LINQ.dll
+E:\Projects\VsProjects\21.LINQ\20.LINQ\bin\Debug\net6.0\20.LINQ.pdb
+E:\Projects\VsProjects\21.LINQ\20.LINQ\obj\Debug\net6.0\20.LINQ.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\21.LINQ\20.LINQ\obj\Debug\net6.0\20.LINQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\21.LINQ\20.LINQ\obj\Debug\net6.0\20.LINQ.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\21.LINQ\20.LINQ\obj\Debug\net6.0\20.LINQ.AssemblyInfo.cs
+E:\Projects\VsProjects\21.LINQ\20.LINQ\obj\Debug\net6.0\20.LINQ.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\21.LINQ\20.LINQ\obj\Debug\net6.0\20.LINQ.dll
+E:\Projects\VsProjects\21.LINQ\20.LINQ\obj\Debug\net6.0\refint\20.LINQ.dll
+E:\Projects\VsProjects\21.LINQ\20.LINQ\obj\Debug\net6.0\20.LINQ.pdb
+E:\Projects\VsProjects\21.LINQ\20.LINQ\obj\Debug\net6.0\20.LINQ.genruntimeconfig.cache
+E:\Projects\VsProjects\21.LINQ\20.LINQ\obj\Debug\net6.0\ref\20.LINQ.dll

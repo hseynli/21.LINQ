@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\21.LINQ\05.Anonymous\bin\Debug\net6.0\05.Anonymous.exe
+E:\Projects\VsProjects\21.LINQ\05.Anonymous\bin\Debug\net6.0\05.Anonymous.deps.json
+E:\Projects\VsProjects\21.LINQ\05.Anonymous\bin\Debug\net6.0\05.Anonymous.runtimeconfig.json
+E:\Projects\VsProjects\21.LINQ\05.Anonymous\bin\Debug\net6.0\05.Anonymous.dll
+E:\Projects\VsProjects\21.LINQ\05.Anonymous\bin\Debug\net6.0\05.Anonymous.pdb
+E:\Projects\VsProjects\21.LINQ\05.Anonymous\obj\Debug\net6.0\05.Anonymous.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\21.LINQ\05.Anonymous\obj\Debug\net6.0\05.Anonymous.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\21.LINQ\05.Anonymous\obj\Debug\net6.0\05.Anonymous.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\21.LINQ\05.Anonymous\obj\Debug\net6.0\05.Anonymous.AssemblyInfo.cs
+E:\Projects\VsProjects\21.LINQ\05.Anonymous\obj\Debug\net6.0\05.Anonymous.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\21.LINQ\05.Anonymous\obj\Debug\net6.0\05.Anonymous.dll
+E:\Projects\VsProjects\21.LINQ\05.Anonymous\obj\Debug\net6.0\refint\05.Anonymous.dll
+E:\Projects\VsProjects\21.LINQ\05.Anonymous\obj\Debug\net6.0\05.Anonymous.pdb
+E:\Projects\VsProjects\21.LINQ\05.Anonymous\obj\Debug\net6.0\05.Anonymous.genruntimeconfig.cache
+E:\Projects\VsProjects\21.LINQ\05.Anonymous\obj\Debug\net6.0\ref\05.Anonymous.dll
